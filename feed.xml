@@ -1,0 +1,47 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://nimor111.github.io/writings-blog/</id>
+  <title>A writing nook</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2025-09-30T21:57:28+00:00</updated>
+  <author>
+    <name>Georgi Bojinov</name>
+    <uri>https://nimor111.github.io/writings-blog/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://nimor111.github.io/writings-blog/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://nimor111.github.io/writings-blog/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 Georgi Bojinov </rights>
+  <icon>/writings-blog/assets/img/favicons/favicon.ico</icon>
+  <logo>/writings-blog/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Introduction</title>
+    <link href="https://nimor111.github.io/writings-blog/posts/introduction/" rel="alternate" type="text/html" title="Introduction" />
+    <published>2025-09-30T00:00:00+00:00</published>
+  
+    <updated>2025-09-30T00:00:00+00:00</updated>
+  
+    <id>https://nimor111.github.io/writings-blog/posts/introduction/</id>
+    <content type="text/html" src="https://nimor111.github.io/writings-blog/posts/introduction/" />
+    <author>
+      <name>Georgi Bojinov</name>
+    </author>
+
+  
+    
+    <category term="Intro" />
+    
+  
+
+  <summary>Test the test  Test the testy test  Note: Test     1   2   3</summary>
+
+  </entry>
+
+</feed>
+
+
