@@ -5,6 +5,9 @@ on:
     branches:
       - main  # build on every push to main
 
+permissions:
+  contents: write
+
 jobs:
   jekyll:
     runs-on: ubuntu-latest
