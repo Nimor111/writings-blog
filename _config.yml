@@ -34,14 +34,13 @@ instagram:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Georgi Bojinov
-  email: georgi.bojinov@hotmail.com # change to your email address
+  name: Nimorsbooknook
+  email: nimorsbooknook@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://instagram.com/nimorsbooknook1
     - https://twitter.com/Nimor111 # change to your Twitter homepage
     - https://github.com/Nimor111 # change to your GitHub homepage
-    - https://facebook.com/georgi.bojinov.1
     # Uncomment below to add more social links
     # - https://www.linkedin.com/in/username
 
