@@ -1,16 +1,16 @@
 const swconf = {
   
-    cacheName: 'chirpy-1759355995',resources: [
-      '/writings-blog/assets/css/jekyll-theme-chirpy.css',
-      '/writings-blog/',
+    cacheName: 'chirpy-1759436389',resources: [
+      '/assets/css/jekyll-theme-chirpy.css',
+      '/',
       
-        '/writings-blog/categories/',
+        '/categories/',
       
-        '/writings-blog/tags/',
+        '/tags/',
       
-        '/writings-blog/archives/',
+        '/archives/',
       
-        '/writings-blog/about/',
+        '/about/',
       
 
       

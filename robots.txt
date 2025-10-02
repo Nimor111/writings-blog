@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://nimor111.github.io/writings-blog/sitemap.xml
+Sitemap: https://nimor111.github.io/sitemap.xml
