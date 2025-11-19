@@ -4,7 +4,7 @@
   <id>https://nimor111.github.io/</id>
   <title>A writing nook</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-11-19T23:38:18+00:00</updated>
+  <updated>2025-11-19T23:43:37+00:00</updated>
   <author>
     <name>Nimorsbooknook</name>
     <uri>https://nimor111.github.io/</uri>
@@ -17,6 +17,58 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Belonging</title>
+    <link href="https://nimor111.github.io/posts/belonging-en/" rel="alternate" type="text/html" title="Belonging" />
+    <published>2025-11-20T00:00:00+00:00</published>
+  
+    <updated>2025-11-20T00:00:00+00:00</updated>
+  
+    <id>https://nimor111.github.io/posts/belonging-en/</id>
+    <content type="text/html" src="https://nimor111.github.io/posts/belonging-en/" />
+    <author>
+      <name>Nimorsbooknook</name>
+    </author>
+
+  
+    
+    <category term="Stories" />
+    
+    <category term="English" />
+    
+  
+
+  <summary>       I scarcely remember my homeland, where they took me from when I was very young. Sometimes, in the dead of night, as darkness grips the land, I can see glimpses in my addled mind - a vast red desert, a mass of stone buildings, a strong, chilly wind. Perhaps I was part of one of those buildings, huge masses rising high into the sky, built eons ago - a part of the whole, a cog in a massive ...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Принадлежност</title>
+    <link href="https://nimor111.github.io/posts/belonging-bg/" rel="alternate" type="text/html" title="Принадлежност" />
+    <published>2025-11-20T00:00:00+00:00</published>
+  
+    <updated>2025-11-20T00:00:00+00:00</updated>
+  
+    <id>https://nimor111.github.io/posts/belonging-bg/</id>
+    <content type="text/html" src="https://nimor111.github.io/posts/belonging-bg/" />
+    <author>
+      <name>Nimorsbooknook</name>
+    </author>
+
+  
+    
+    <category term="Stories" />
+    
+    <category term="Bulgarian" />
+    
+  
+
+  <summary>       Почти не помня родната си земя, откъдето ме взеха, когато бях малък. Понякога в главата ми изскачат откъслечни пейзажи, безкрайна шир от червен пясък, високи каменни стълбове, лют студен вятър. Вероятно съм бил част от някоя такава постройка, едно зъбно колело в конструкцията, всяко с мястото и ролята си, част от цялото. Дали оттам са ме взели? Дали без мен е рухнала постройката? Или дал...</summary>
+
+  </entry>
 
   
   <entry>
