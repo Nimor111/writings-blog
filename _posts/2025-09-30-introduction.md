@@ -2,15 +2,9 @@
 title: Introduction
 date: 2025-09-30
 categories: [Intro]
-tags: [post]
+tags: [post, english]
 ---
 
-# Test the test
+# Who am I?
 
-### Test the testy test
-
-**Note**: Test
-
-* 1 
-* 2
-* 3
+More to come.
