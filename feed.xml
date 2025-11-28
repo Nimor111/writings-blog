@@ -3,8 +3,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://nimor111.github.io/</id>
   <title>A writing nook</title>
-  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-11-19T23:43:37+00:00</updated>
+  <subtitle>A place to share my various writings and random thoughts</subtitle>
+  <updated>2025-11-28T08:38:51+00:00</updated>
   <author>
     <name>Nimorsbooknook</name>
     <uri>https://nimor111.github.io/</uri>
@@ -17,6 +17,32 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>A meaningful meeting</title>
+    <link href="https://nimor111.github.io/posts/a-meaningful-meeting/" rel="alternate" type="text/html" title="A meaningful meeting" />
+    <published>2025-11-26T00:00:00+00:00</published>
+  
+    <updated>2025-11-26T00:00:00+00:00</updated>
+  
+    <id>https://nimor111.github.io/posts/a-meaningful-meeting/</id>
+    <content type="text/html" src="https://nimor111.github.io/posts/a-meaningful-meeting/" />
+    <author>
+      <name>Nimorsbooknook</name>
+    </author>
+
+  
+    
+    <category term="Stories" />
+    
+    <category term="English" />
+    
+  
+
+  <summary>       Kal checked the lock on the door for the third time since he had started out for his daily walk. At this rate he would reach his daily step goal, just from going back to check. Berating himself for being so uncertain when locking doors, he once again wondered why his brain decided to do this to him every time, a particular quirk or inkling of his mind. Perhaps they had a name for it? The...</summary>
+
+  </entry>
 
   
   <entry>
